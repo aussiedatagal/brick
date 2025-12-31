@@ -1,0 +1,59 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+coverage/
+.nyc_output/
+playwright-report/
+test-results/
+
+# Environment variables
+.env
+.env.local
+rebrickable_api_key
+
+# Public data (will be generated)
+# Note: puzzles/ are committed for historical puzzle access
+# Images are referenced by URL from Rebrickable CDN, not stored locally
+public/data/images/
+public/data/current_puzzle.json
+# popular_sets.json is generated but should be committed for autocomplete to work
+
+# Large index files (too large for GitHub - must be generated locally)
+# These files exceed GitHub's 100MB limit and should be generated using:
+# python scripts/preprocess_indexes.py
+public/data/indexes/inventory_to_parts.json
+public/data/inventory_to_parts.json
+
+# Rebrickable CSV cache (downloaded data - do not commit)
+.cache/
+
+github_token
+
+# AI-related files (not committed to git)
+AGENTS.md
+ai/
