@@ -775,6 +775,20 @@ function App() {
             )}
           </div>
         )}
+
+        {/* Footer */}
+        <footer className="mt-4 sm:mt-6 pt-2 sm:pt-3 border-t border-gray-200">
+          <div className="text-center">
+            <a
+              href="http://aussiedatagal.github.io/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[10px] sm:text-xs text-gray-500 hover:text-gray-700 underline min-h-[44px] inline-flex items-center justify-center touch-manipulation"
+            >
+              aussiedatagal.github.io
+            </a>
+          </div>
+        </footer>
       </div>
     </div>
   );
