@@ -5,6 +5,12 @@ on:
     branches:
       - main
   workflow_dispatch:
+    inputs:
+      run_e2e_tests:
+        description: 'Run E2E tests (takes ~10+ minutes)'
+        required: false
+        default: 'false'
+        type: boolean
   schedule:
     # Run daily at 00:00 UTC (adjust timezone as needed)
     - cron: '0 0 * * *'
@@ -67,9 +73,11 @@ jobs:
         run: npm run build
 
       - name: Install Playwright browsers
+        if: github.event_name == 'workflow_dispatch' && github.event.inputs.run_e2e_tests == 'true'
         run: npx playwright install --with-deps chromium
 
       - name: Run E2E tests
+        if: github.event_name == 'workflow_dispatch' && github.event.inputs.run_e2e_tests == 'true'
         run: npm run test:e2e || echo "E2E tests failed, continuing deployment..."
         env:
           CI: true
