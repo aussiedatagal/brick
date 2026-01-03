@@ -42,3 +42,4 @@ function Toast({ message, type = 'info', onClose, duration = 4000 }: ToastProps)
 
 export default Toast;
 
+
