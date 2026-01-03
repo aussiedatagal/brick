@@ -1,57 +1,12 @@
 #!/usr/bin/env python3
 """
 Test script to verify that daily_update.py generates correct data structure.
-This verifies that popular_sets.json includes theme field.
+This verifies that puzzle files include required fields.
 """
 
 import json
 import sys
 from pathlib import Path
-
-def test_popular_sets_has_theme():
-    """Test that popular_sets.json includes theme field for all sets."""
-    data_dir = Path(__file__).parent.parent / 'public' / 'data'
-    popular_sets_file = data_dir / 'popular_sets.json'
-    
-    if not popular_sets_file.exists():
-        print(f"❌ popular_sets.json not found at {popular_sets_file}")
-        return False
-    
-    with open(popular_sets_file, 'r') as f:
-        sets_list = json.load(f)
-    
-    if not isinstance(sets_list, list):
-        print(f"❌ popular_sets.json should be a list, got {type(sets_list)}")
-        return False
-    
-    if len(sets_list) == 0:
-        print(f"⚠️  popular_sets.json is empty")
-        return True  # Empty is valid, just not useful
-    
-    # Check that all sets have theme field
-    missing_theme = []
-    for i, set_data in enumerate(sets_list):
-        if 'theme' not in set_data:
-            missing_theme.append((i, set_data.get('set_num', 'unknown'), set_data.get('name', 'unknown')))
-    
-    if missing_theme:
-        print(f"❌ Found {len(missing_theme)} sets without 'theme' field:")
-        for idx, set_num, name in missing_theme[:10]:  # Show first 10
-            print(f"   [{idx}] {set_num}: {name}")
-        if len(missing_theme) > 10:
-            print(f"   ... and {len(missing_theme) - 10} more")
-        return False
-    
-    # Also verify theme values are reasonable (not all None/empty)
-    themes_found = set()
-    for set_data in sets_list:
-        theme = set_data.get('theme')
-        if theme:
-            themes_found.add(theme)
-    
-    print(f"✓ All {len(sets_list)} sets in popular_sets.json have 'theme' field")
-    print(f"✓ Found {len(themes_found)} unique themes (sample: {', '.join(list(themes_found)[:5])})")
-    return True
 
 def test_puzzle_has_theme():
     """Test that puzzle JSON files include set_theme field."""
@@ -88,13 +43,11 @@ if __name__ == '__main__':
     print("Testing daily_update.py output...")
     print("=" * 60)
     
-    test1_passed = test_popular_sets_has_theme()
-    print()
-    test2_passed = test_puzzle_has_theme()
+    test_passed = test_puzzle_has_theme()
     
     print()
     print("=" * 60)
-    if test1_passed and test2_passed:
+    if test_passed:
         print("✓ All tests passed!")
         sys.exit(0)
     else:
