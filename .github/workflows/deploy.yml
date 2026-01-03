@@ -30,6 +30,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -62,8 +65,12 @@ jobs:
           if git diff --staged --quiet; then
             echo "No puzzle changes to commit"
           else
-            git commit -m "Add puzzle data for $(date +%Y-%m-%d)"
-            git push
+            git commit -m "Add puzzle data for $(date +%Y-%m-%d)" || exit 1
+            git push origin HEAD:main || {
+              echo "Push failed. Checking remote configuration..."
+              git remote -v
+              exit 1
+            }
           fi
 
       - name: Run unit tests
