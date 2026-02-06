@@ -2855,13 +2855,14 @@
     "s": "Build-a-Mini-2026",
     "n": "2026 Build-A-Minifigure Station Exclusive Parts",
     "y": 2026,
-    "p": 15,
+    "p": 16,
     "t": "Database Sets"
   },
   {
     "s": "Pick-a-Brick-2026",
     "n": "2026 Pick-a-Brick and Bricks & Pieces Parts",
     "y": 2026,
+    "p": 1,
     "t": "Database Sets"
   },
   {
@@ -96476,7 +96477,7 @@
     "n": "Metroliner",
     "y": 2001,
     "p": 787,
-    "t": "Train"
+    "t": "9V"
   },
   {
     "s": "4558-1",
@@ -122093,7 +122094,7 @@
     "n": "Postal Container Wagon Covered",
     "y": 1983,
     "p": 183,
-    "t": "Train"
+    "t": "4.5V"
   },
   {
     "s": "5638-1",
@@ -125697,7 +125698,7 @@
     "n": "Railroad Club Car",
     "y": 2001,
     "p": 293,
-    "t": "Train"
+    "t": "9V"
   },
   {
     "s": "340-3",
@@ -169953,7 +169954,7 @@
     "n": "Western Train",
     "y": 1976,
     "p": 288,
-    "t": "Train"
+    "t": "12V"
   },
   {
     "s": "7597-1",
