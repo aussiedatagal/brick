@@ -3022,7 +3022,7 @@
     "n": "2D Easter Egg",
     "y": 2025,
     "p": 21,
-    "t": "Promotional"
+    "t": "Easter"
   },
   {
     "s": "851244008570-1",
@@ -3367,7 +3367,7 @@
     "n": "3D Easter Egg",
     "y": 2025,
     "p": 41,
-    "t": "LEGO Brand Store"
+    "t": "Easter"
   },
   {
     "s": "200741918-1",
@@ -7191,7 +7191,7 @@
     "n": "Airport with Airplane",
     "y": 2026,
     "p": 887,
-    "t": "City"
+    "t": "Airport"
   },
   {
     "s": "2774-1",
@@ -8178,7 +8178,7 @@
     "n": "Amelia Ticket Booth",
     "y": 2025,
     "p": 153,
-    "t": "LEGO Ideas and CUUSOO"
+    "t": "Promotional"
   },
   {
     "s": "10042-1",
@@ -11118,7 +11118,7 @@
     "n": "Astronaut and Spaceship",
     "y": 2025,
     "p": 32,
-    "t": "City"
+    "t": "Space"
   },
   {
     "s": "6457-1",
@@ -11162,14 +11162,14 @@
     "n": "Astronaut with Alien and Crystal",
     "y": 2025,
     "p": 20,
-    "t": "City"
+    "t": "Space"
   },
   {
     "s": "952407-1",
     "n": "Astronaut with Quad",
     "y": 2024,
     "p": 29,
-    "t": "City"
+    "t": "Space"
   },
   {
     "s": "71048-4",
@@ -15219,7 +15219,7 @@
     "n": "Basketball Hoop",
     "y": 2025,
     "p": 49,
-    "t": "Promotional"
+    "t": "Nike"
   },
   {
     "s": "1529-2",
@@ -19943,7 +19943,7 @@
     "n": "Birthday Cake",
     "y": 2025,
     "p": 160,
-    "t": "Promotional"
+    "t": "Seasonal"
   },
   {
     "s": "6277552-1",
@@ -19964,7 +19964,7 @@
     "n": "Birthday Cake",
     "y": 2025,
     "p": 44,
-    "t": "Promotional"
+    "t": "Seasonal"
   },
   {
     "s": "5004931-1",
@@ -26533,7 +26533,7 @@
     "n": "Butterfly Garden",
     "y": 2025,
     "p": 150,
-    "t": "Promotional"
+    "t": "Botanicals"
   },
   {
     "s": "71018-7",
@@ -27598,7 +27598,7 @@
     "n": "Captain Jack Sparrow's Compass",
     "y": 2025,
     "p": 152,
-    "t": "Promotional"
+    "t": "Pirates of the Caribbean"
   },
   {
     "s": "10365-1",
@@ -29577,7 +29577,7 @@
     "n": "Cement Mixer",
     "y": 2026,
     "p": 371,
-    "t": "City"
+    "t": "Construction"
   },
   {
     "s": "6682-1",
@@ -37221,7 +37221,7 @@
     "n": "Command Rover and Crane Loader",
     "y": 2024,
     "p": 758,
-    "t": "City"
+    "t": "Space"
   },
   {
     "s": "40675-1",
@@ -38722,7 +38722,7 @@
     "s": "5008942-1",
     "n": "Cosmic Exploration Bundle",
     "y": 2024,
-    "t": "City"
+    "t": "Space"
   },
   {
     "s": "6985-1",
@@ -48656,7 +48656,7 @@
     "n": "Duck Cake",
     "y": 2025,
     "p": 32,
-    "t": "Promotional"
+    "t": "Bluey"
   },
   {
     "s": "852985-1",
@@ -69840,7 +69840,7 @@
     "s": "TRADINGCARD-7",
     "n": "Harry Potter Trading Cards Series 2",
     "y": 2024,
-    "p": 189,
+    "p": 248,
     "t": "Database Sets"
   },
   {
@@ -69956,6 +69956,7 @@
     "s": "9781837251735-1",
     "n": "Harry Potter: Draco's Potions",
     "y": 2026,
+    "p": 20,
     "t": "Activity Books with LEGO Parts"
   },
   {
@@ -70822,7 +70823,7 @@
     "n": "Heart Floral Display",
     "y": 2025,
     "p": 38,
-    "t": "Promotional"
+    "t": "Valentine"
   },
   {
     "s": "40638-1",
@@ -73481,7 +73482,7 @@
     "n": "Holiday Kangaroo",
     "y": 2025,
     "p": 54,
-    "t": "Promotional"
+    "t": "Christmas"
   },
   {
     "s": "K10068-1",
@@ -73515,7 +73516,7 @@
     "n": "Holiday Ornament",
     "y": 2025,
     "p": 60,
-    "t": "Promotional"
+    "t": "Christmas"
   },
   {
     "s": "HOLIDAYORNAMENT-1",
@@ -74226,7 +74227,7 @@
     "n": "Hot Chocolate Stand",
     "y": 2025,
     "p": 256,
-    "t": "Promotional"
+    "t": "Christmas"
   },
   {
     "s": "40078-1",
@@ -77712,7 +77713,7 @@
     "n": "Interstellar Spaceship",
     "y": 2024,
     "p": 240,
-    "t": "City"
+    "t": "Space"
   },
   {
     "s": "6979-1",
@@ -86969,7 +86970,7 @@
     "n": "Lego Eid Mosaic",
     "y": 2025,
     "p": 169,
-    "t": "Promotional"
+    "t": "Seasonal"
   },
   {
     "s": "4534-1",
@@ -97075,7 +97076,7 @@
     "n": "Micro Orchid",
     "y": 2025,
     "p": 39,
-    "t": "Promotional"
+    "t": "Botanicals"
   },
   {
     "s": "6345925-1",
@@ -101435,7 +101436,7 @@
     "n": "Modular Galactic Spaceship",
     "y": 2025,
     "p": 717,
-    "t": "City"
+    "t": "Space"
   },
   {
     "s": "910009-1",
@@ -101496,7 +101497,7 @@
     "n": "Modular Space Station",
     "y": 2024,
     "p": 1099,
-    "t": "City"
+    "t": "Space"
   },
   {
     "s": "6892-1",
@@ -114467,21 +114468,21 @@
     "n": "Ornament Cataclaws",
     "y": 2025,
     "p": 36,
-    "t": "Promotional"
+    "t": "Christmas"
   },
   {
     "s": "6583587-1",
     "n": "Ornament Present",
     "y": 2025,
     "p": 38,
-    "t": "Promotional"
+    "t": "Christmas"
   },
   {
     "s": "6583588-1",
     "n": "Ornament X-mas Tree",
     "y": 2025,
     "p": 38,
-    "t": "Promotional"
+    "t": "Christmas"
   },
   {
     "s": "LMG003-1",
@@ -121030,7 +121031,7 @@
     "n": "Police Prisoner Transport Van",
     "y": 2026,
     "p": 198,
-    "t": "City"
+    "t": "Police"
   },
   {
     "s": "42091-1",
@@ -121274,7 +121275,7 @@
     "s": "60508-1",
     "n": "Police Train Heist",
     "y": 2026,
-    "t": "City"
+    "t": "Police"
   },
   {
     "s": "60372-1",
@@ -131962,7 +131963,7 @@
     "n": "Sandman Attacks",
     "y": 2025,
     "p": 56,
-    "t": "Promotional"
+    "t": "Spider-Man"
   },
   {
     "s": "75204-1",
@@ -136719,7 +136720,7 @@
     "n": "Skaters in the Park",
     "y": 2025,
     "p": 150,
-    "t": "Promotional"
+    "t": "Christmas"
   },
   {
     "s": "4072-1",
@@ -139859,7 +139860,7 @@
     "n": "Space Base and Rocket Launchpad",
     "y": 2024,
     "p": 1424,
-    "t": "City"
+    "t": "Space"
   },
   {
     "s": "412505-1",
@@ -139939,7 +139940,7 @@
     "n": "Space Construction Mech",
     "y": 2024,
     "p": 140,
-    "t": "City"
+    "t": "Space"
   },
   {
     "s": "5691-1",
@@ -140022,7 +140023,7 @@
     "n": "Space Explorer Rover and Alien Life",
     "y": 2024,
     "p": 311,
-    "t": "City"
+    "t": "Space"
   },
   {
     "s": "6705-1",
@@ -140036,7 +140037,7 @@
     "n": "Space Explorers Pack",
     "y": 2024,
     "p": 426,
-    "t": "City"
+    "t": "Space"
   },
   {
     "s": "757894516406-1",
@@ -140088,7 +140089,7 @@
     "n": "Space Hoverbike",
     "y": 2024,
     "p": 46,
-    "t": "City"
+    "t": "Space"
   },
   {
     "s": "30231-1",
@@ -140450,14 +140451,14 @@
     "n": "Space Science Lab",
     "y": 2024,
     "p": 560,
-    "t": "City"
+    "t": "Space"
   },
   {
     "s": "30694-1",
     "n": "Space Science Mech",
     "y": 2025,
     "p": 49,
-    "t": "City"
+    "t": "Space"
   },
   {
     "s": "885-1",
@@ -140874,7 +140875,7 @@
     "n": "Spaceship and Asteroid Discovery",
     "y": 2024,
     "p": 126,
-    "t": "City"
+    "t": "Space"
   },
   {
     "s": "71046-1",
@@ -164843,7 +164844,7 @@
     "n": "U-Wing",
     "y": 2025,
     "p": 52,
-    "t": "Promotional"
+    "t": "Star Wars"
   },
   {
     "s": "911946-1",
@@ -171396,7 +171397,7 @@
     "n": "Winter Gazebo",
     "y": 2025,
     "p": 245,
-    "t": "Other"
+    "t": "Christmas"
   },
   {
     "s": "10254-1",
@@ -171639,7 +171640,7 @@
     "n": "Witch",
     "y": 2025,
     "p": 27,
-    "t": "LEGO Brand Store"
+    "t": "Halloween"
   },
   {
     "s": "8684-4",
@@ -172693,7 +172694,7 @@
     "n": "Wreath",
     "y": 2025,
     "p": 29,
-    "t": "Promotional"
+    "t": "Christmas"
   },
   {
     "s": "8057-1",
