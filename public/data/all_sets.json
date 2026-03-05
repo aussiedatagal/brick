@@ -2855,7 +2855,7 @@
     "s": "Build-a-Mini-2026",
     "n": "2026 Build-A-Minifigure Station Exclusive Parts",
     "y": 2026,
-    "p": 16,
+    "p": 21,
     "t": "Database Sets"
   },
   {
@@ -50520,13 +50520,6 @@
     "t": "Key Chain"
   },
   {
-    "s": "EGALT-1",
-    "n": "Egalt",
-    "y": 2024,
-    "p": 61,
-    "t": "Promotional"
-  },
-  {
     "s": "71809-1",
     "n": "Egalt the Master Dragon",
     "y": 2024,
@@ -67909,7 +67902,7 @@
     "s": "GUARDIANDRAGON-1",
     "n": "Guardian Dragon & Fire Mech",
     "y": 2025,
-    "p": 187,
+    "p": 183,
     "t": "Ninjago"
   },
   {
@@ -166323,7 +166316,7 @@
     "s": "DATABASE-2",
     "n": "Unused Parts Database Set -1966 to 200\ufeff0",
     "y": 2000,
-    "p": 220,
+    "p": 224,
     "t": "Database Sets"
   },
   {
