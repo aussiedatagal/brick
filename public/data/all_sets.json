@@ -41884,16 +41884,23 @@
   },
   {
     "s": "8770-1",
-    "n": "Danju",
+    "n": "Danju (European version without Cards)",
     "y": 2004,
     "p": 42,
     "t": "Knights Kingdom II"
   },
   {
     "s": "8782-1",
-    "n": "Danju",
+    "n": "Danju (USA version with 3 Cards)",
     "y": 2004,
     "p": 45,
+    "t": "Knights Kingdom II"
+  },
+  {
+    "s": "8782-2",
+    "n": "Danju (USA version with 6 Cards, Target Promo)",
+    "y": 2004,
+    "p": 48,
     "t": "Knights Kingdom II"
   },
   {
@@ -41901,13 +41908,6 @@
     "n": "Danju / Vladek Bonus Pack",
     "y": 2004,
     "p": 1,
-    "t": "Knights Kingdom II"
-  },
-  {
-    "s": "8782-2",
-    "n": "Danju [Target Exclusive]",
-    "y": 2004,
-    "p": 48,
     "t": "Knights Kingdom II"
   },
   {
