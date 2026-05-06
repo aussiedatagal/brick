@@ -7116,7 +7116,7 @@
     "n": "Airport Fire Truck",
     "y": 2026,
     "p": 691,
-    "t": "City"
+    "t": "Airport"
   },
   {
     "s": "7891-1",
@@ -11104,14 +11104,14 @@
     "n": "Astronaut & Robot",
     "y": 2024,
     "p": 25,
-    "t": "City"
+    "t": "Space"
   },
   {
     "s": "952411-1",
     "n": "Astronaut and Radio Station",
     "y": 2024,
     "p": 23,
-    "t": "City"
+    "t": "Space"
   },
   {
     "s": "952504-1",
@@ -27135,7 +27135,7 @@
     "n": "Camper Van",
     "y": 2014,
     "p": 195,
-    "t": "City"
+    "t": "Traffic"
   },
   {
     "s": "10602-1",
@@ -52754,7 +52754,7 @@
     "n": "EV Supercar",
     "y": 2026,
     "p": 109,
-    "t": "City"
+    "t": "Traffic"
   },
   {
     "s": "5003239-1",
@@ -62912,7 +62912,7 @@
     "n": "Fries Food Truck",
     "y": 2026,
     "p": 216,
-    "t": "City"
+    "t": "Traffic"
   },
   {
     "s": "6031-1",
@@ -73358,7 +73358,7 @@
     "n": "Holiday Adventure Camper Van",
     "y": 2025,
     "p": 385,
-    "t": "City"
+    "t": "Traffic"
   },
   {
     "s": "851358-1",
@@ -73385,7 +73385,7 @@
     "n": "Holiday Camper Van",
     "y": 2021,
     "p": 190,
-    "t": "City"
+    "t": "Traffic"
   },
   {
     "s": "41726-1",
@@ -74374,7 +74374,7 @@
     "n": "Hot Rod",
     "y": 2026,
     "p": 81,
-    "t": "City"
+    "t": "Traffic"
   },
   {
     "s": "30735-1",
@@ -103013,7 +103013,7 @@
     "n": "Motorcycle Transporter",
     "y": 2026,
     "p": 88,
-    "t": "City"
+    "t": "Traffic"
   },
   {
     "s": "1174-1",
@@ -117139,7 +117139,7 @@
     "n": "Pickup & Caravan",
     "y": 2018,
     "p": 344,
-    "t": "City"
+    "t": "Traffic"
   },
   {
     "s": "60081-1",
@@ -124870,7 +124870,7 @@
     "n": "Race Car and Car Carrier Truck",
     "y": 2024,
     "p": 328,
-    "t": "City"
+    "t": "Traffic"
   },
   {
     "s": "8803-11",
@@ -126866,14 +126866,14 @@
     "n": "Recycling Truck",
     "y": 2023,
     "p": 261,
-    "t": "City"
+    "t": "Traffic"
   },
   {
     "s": "60495-1",
     "n": "Recycling Truck",
     "y": 2026,
     "p": 434,
-    "t": "City"
+    "t": "Traffic"
   },
   {
     "s": "6132-1",
@@ -128895,14 +128895,14 @@
     "n": "Rides \u2013 Construction Loader",
     "y": 2026,
     "p": 61,
-    "t": "City"
+    "t": "Construction"
   },
   {
     "s": "60482-1",
     "n": "Rides \u2013 Fire Truck",
     "y": 2026,
     "p": 67,
-    "t": "City"
+    "t": "Fire"
   },
   {
     "s": "60484-1",
@@ -128916,7 +128916,7 @@
     "n": "Rides \u2013 Police Truck",
     "y": 2026,
     "p": 78,
-    "t": "City"
+    "t": "Police"
   },
   {
     "s": "5941-1",
@@ -131707,7 +131707,7 @@
     "n": "Sam Speedster's Motorcycle",
     "y": 2022,
     "p": 12,
-    "t": "City"
+    "t": "Traffic"
   },
   {
     "s": "30533-1",
@@ -138959,7 +138959,7 @@
     "n": "Snowplow",
     "y": 2026,
     "p": 263,
-    "t": "City"
+    "t": "Traffic"
   },
   {
     "s": "60083-1",
@@ -148780,7 +148780,7 @@
     "n": "Stunt Plane",
     "y": 2022,
     "p": 59,
-    "t": "City"
+    "t": "Airport"
   },
   {
     "s": "3586-1",
@@ -148868,7 +148868,7 @@
     "n": "Stunt-Quad",
     "y": 2023,
     "p": 27,
-    "t": "Stuntz"
+    "t": "City"
   },
   {
     "s": "1356-1",
@@ -156864,7 +156864,7 @@
     "n": "The LEGO Van",
     "y": 2026,
     "p": 276,
-    "t": "City"
+    "t": "Traffic"
   },
   {
     "s": "4000014-2",
@@ -161529,7 +161529,7 @@
     "n": "Tractor",
     "y": 2026,
     "p": 204,
-    "t": "City"
+    "t": "Farm"
   },
   {
     "s": "625-1",
@@ -173737,7 +173737,7 @@
     "n": "Yellow Taxi",
     "y": 2026,
     "p": 122,
-    "t": "City"
+    "t": "Traffic"
   },
   {
     "s": "1285-1",
