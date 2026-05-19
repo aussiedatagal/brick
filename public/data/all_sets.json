@@ -6393,6 +6393,7 @@
     "s": "6570382-1",
     "n": "AFI Cotroceni Grand Opening",
     "y": 2025,
+    "p": 1,
     "t": "LEGO Brand Store"
   },
   {
@@ -42674,7 +42675,7 @@
     "s": "DBASE-4696-1",
     "n": "Database Set for 4696-1",
     "y": 2004,
-    "p": 154,
+    "p": 153,
     "t": "Database Sets"
   },
   {
@@ -46364,12 +46365,6 @@
     "s": "9780241009178-1",
     "n": "DK Readers: Star Wars: The Classic Collection Episodes I-VI",
     "y": 2017,
-    "t": "Story Books"
-  },
-  {
-    "s": "9780241785836-1",
-    "n": "DK Super Readers Level 2: Friends: Pet Pals",
-    "y": 2026,
     "t": "Story Books"
   },
   {
@@ -116499,6 +116494,7 @@
     "s": "6569140-1",
     "n": "People's Square Grand Opening",
     "y": 2025,
+    "p": 1,
     "t": "LEGO Brand Store"
   },
   {
@@ -134757,13 +134753,6 @@
     "y": 2025,
     "p": 597,
     "t": "Architecture"
-  },
-  {
-    "s": "SHANGHAICASTLE-1",
-    "n": "Shanghai Castle",
-    "y": 2019,
-    "p": 144,
-    "t": "LEGO Brand Store"
   },
   {
     "s": "7682-1",
@@ -156794,7 +156783,7 @@
   },
   {
     "s": "103303-1",
-    "n": "The LEGO Store (ChongQing) Coins",
+    "n": "The LEGO Store (ChongQing) - Coins",
     "y": 2022,
     "t": "Promotional"
   },
