@@ -2848,7 +2848,7 @@
     "s": "DATABASE-2026",
     "n": "2026 - Unused Parts Database Set",
     "y": 2026,
-    "p": 7,
+    "p": 9,
     "t": "Database Sets"
   },
   {
@@ -35820,6 +35820,13 @@
     "t": "Star Wars"
   },
   {
+    "s": "912511-1",
+    "n": "Clone Shock Trooper",
+    "y": 2025,
+    "p": 6,
+    "t": "Star Wars"
+  },
+  {
     "s": "75448-1",
     "n": "Clone Shock Trooper Mech",
     "y": 2026,
@@ -38638,13 +38645,6 @@
     "n": "Coruscant Guard",
     "y": 2024,
     "p": 5,
-    "t": "Star Wars"
-  },
-  {
-    "s": "912511-1",
-    "n": "Coruscant Guard",
-    "y": 2025,
-    "p": 6,
     "t": "Star Wars"
   },
   {
@@ -48300,12 +48300,6 @@
     "s": "5006604-1",
     "n": "Drinking Bottle (Red)",
     "y": 2021,
-    "t": "Houseware"
-  },
-  {
-    "s": "40420005-1",
-    "n": "Drinking Bottle (Sand Green)",
-    "y": 2017,
     "t": "Houseware"
   },
   {
@@ -68149,7 +68143,7 @@
     "s": "76459-1",
     "n": "Hagrid & Harry's Privet Drive Escape",
     "y": 2026,
-    "p": 127,
+    "p": 124,
     "t": "Harry Potter"
   },
   {
