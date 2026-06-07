@@ -2849,7 +2849,7 @@
     "s": "DATABASE-2026",
     "n": "2026 - Unused Parts Database Set",
     "y": 2026,
-    "p": 9,
+    "p": 10,
     "t": "Database Sets"
   },
   {
@@ -9897,13 +9897,6 @@
     "y": 2005,
     "p": 42,
     "t": "Star Wars"
-  },
-  {
-    "s": "ARCADE-1",
-    "n": "Arcade driving game",
-    "y": 2023,
-    "p": 32,
-    "t": "LEGO Brand Store"
   },
   {
     "s": "5007935-1",
