@@ -32535,12 +32535,6 @@
     "t": "Gear"
   },
   {
-    "s": "BACKPACK-8",
-    "n": "City Fire Trio Backpack",
-    "y": 2021,
-    "t": "Bags, Totes, & Luggage"
-  },
-  {
     "s": "LUNCHBAG-10",
     "n": "City Fire Trio Lunch Bag",
     "y": 2019,
@@ -32582,12 +32576,6 @@
     "n": "City Fleece Blanket",
     "y": 2015,
     "t": "Houseware"
-  },
-  {
-    "s": "BACKPACK-10",
-    "n": "City Foiled Again Backpack",
-    "y": 2020,
-    "t": "Bags, Totes, & Luggage"
   },
   {
     "s": "BACKPACK-24",
@@ -172374,6 +172362,7 @@
     "s": "1525-2",
     "n": "World Pen",
     "y": 2000,
+    "p": 14,
     "t": "Stationery and Office Supplies"
   },
   {
