@@ -60987,12 +60987,6 @@
     "t": "Friends"
   },
   {
-    "s": "100301837-1",
-    "n": "Friends Backpack",
-    "y": 2021,
-    "t": "Bags, Totes, & Luggage"
-  },
-  {
     "s": "5708496144233-1",
     "n": "Friends Backpack",
     "y": 2014,
@@ -61478,6 +61472,12 @@
     "t": "Bags, Totes, & Luggage"
   },
   {
+    "s": "5711013065140-1",
+    "n": "Friends Good Vibes Backpack",
+    "y": 2017,
+    "t": "Bags, Totes, & Luggage"
+  },
+  {
     "s": "5904209604739-1",
     "n": "Friends Good Vibes Duvet Set",
     "y": 2021,
@@ -61487,6 +61487,12 @@
     "s": "201081915-1",
     "n": "Friends Good Vibes Easy Backpack",
     "y": 2019,
+    "t": "Bags, Totes, & Luggage"
+  },
+  {
+    "s": "5711013064600-1",
+    "n": "Friends Good Vibes Junior Backpack",
+    "y": 2017,
     "t": "Bags, Totes, & Luggage"
   },
   {
@@ -61701,6 +61707,12 @@
     "n": "Friends Journal",
     "y": 2023,
     "t": "Stationery and Office Supplies"
+  },
+  {
+    "s": "100301837-1",
+    "n": "Friends Juice Bar Backpack",
+    "y": 2021,
+    "t": "Bags, Totes, & Luggage"
   },
   {
     "s": "5711013056995-1",
@@ -61926,12 +61938,6 @@
     "t": "Friends"
   },
   {
-    "s": "5711013065140-1",
-    "n": "Friends Pink Backpack",
-    "y": 2017,
-    "t": "Bags, Totes, & Luggage"
-  },
-  {
     "s": "5711013078034-1",
     "n": "Friends Pink Backpack",
     "y": 2017,
@@ -61962,12 +61968,6 @@
     "t": "Bags, Totes, & Luggage"
   },
   {
-    "s": "5711013064600-1",
-    "n": "Friends Pink Junior Backpack",
-    "y": 2017,
-    "t": "Bags, Totes, & Luggage"
-  },
-  {
     "s": "5711013073961-1",
     "n": "Friends Pink Junior Backpack",
     "y": 2017,
@@ -61993,12 +61993,6 @@
     "t": "Friends"
   },
   {
-    "s": "200131705-1",
-    "n": "Friends Popstar Backpack",
-    "y": 2017,
-    "t": "Bags, Totes, & Luggage"
-  },
-  {
     "s": "200221705-1",
     "n": "Friends Popstar Backpack",
     "y": 2017,
@@ -62013,6 +62007,12 @@
   {
     "s": "5711013040864-1",
     "n": "Friends Popstar Backpack",
+    "y": 2017,
+    "t": "Bags, Totes, & Luggage"
+  },
+  {
+    "s": "200131705-1",
+    "n": "Friends Popstar Backpack with Sports Bag",
     "y": 2017,
     "t": "Bags, Totes, & Luggage"
   },
@@ -107246,12 +107246,6 @@
     "t": "Story Books"
   },
   {
-    "s": "200091806-1",
-    "n": "Ninjago Comic Backpack",
-    "y": 2018,
-    "t": "Bags, Totes, & Luggage"
-  },
-  {
     "s": "5711013051273-1",
     "n": "Ninjago Comic Backpack",
     "y": 2018,
@@ -107272,6 +107266,12 @@
   {
     "s": "5711013055387-1",
     "n": "Ninjago Comic Backpack",
+    "y": 2018,
+    "t": "Bags, Totes, & Luggage"
+  },
+  {
+    "s": "200091806-1",
+    "n": "Ninjago Comic Backpack with Sports Bag",
     "y": 2018,
     "t": "Bags, Totes, & Luggage"
   },
@@ -110268,7 +110268,7 @@
   },
   {
     "s": "200131809-1",
-    "n": "Ninjago Team Ninja Backpack",
+    "n": "Ninjago Team Ninja Backpack with Sports Bag",
     "y": 2018,
     "t": "Bags, Totes, & Luggage"
   },
