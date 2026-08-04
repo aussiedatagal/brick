@@ -38030,12 +38030,6 @@
     "t": "Plush Toys"
   },
   {
-    "s": "PLUSH-6",
-    "n": "Construction Worker Plush",
-    "y": 2014,
-    "t": "Plush Toys"
-  },
-  {
     "s": "852015-1",
     "n": "Construction Worker Vest",
     "y": 2007,
@@ -49179,12 +49173,6 @@
     "n": "Duplo Dog Backpack",
     "y": 2023,
     "t": "Bags, Totes, & Luggage"
-  },
-  {
-    "s": "353920-1",
-    "n": "Duplo Dolphin Plush",
-    "y": 2024,
-    "t": "Plush Toys"
   },
   {
     "s": "5007506-1",
@@ -61361,6 +61349,12 @@
   {
     "s": "354050-1",
     "n": "Friends Dash Dog Plush",
+    "y": 2024,
+    "t": "Plush Toys"
+  },
+  {
+    "s": "353920-1",
+    "n": "Friends Dolphin Plush",
     "y": 2024,
     "t": "Plush Toys"
   },
@@ -136241,7 +136235,7 @@
   {
     "s": "1061-1",
     "n": "Single Disk Pack",
-    "y": 2000,
+    "y": 1999,
     "t": "Throwbot Slizer"
   },
   {
