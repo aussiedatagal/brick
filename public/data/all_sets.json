@@ -2849,7 +2849,7 @@
     "s": "DATABASE-2026",
     "n": "2026 - Unused Parts Database Set",
     "y": 2026,
-    "p": 14,
+    "p": 12,
     "t": "Database Sets"
   },
   {
@@ -15921,13 +15921,6 @@
     "n": "Batman and Joker Minifig Pack",
     "y": 2008,
     "p": 9,
-    "t": "Batman"
-  },
-  {
-    "s": "212401-1",
-    "n": "Batman and Mega Mech",
-    "y": 2024,
-    "p": 56,
     "t": "Batman"
   },
   {
@@ -36780,13 +36773,6 @@
     "n": "Cole Key Light",
     "y": 2016,
     "t": "Key Chain"
-  },
-  {
-    "s": "112326-1",
-    "n": "Cole vs. Bone Knight",
-    "y": 2023,
-    "p": 15,
-    "t": "Ninjago"
   },
   {
     "s": "112504-1",
@@ -81959,13 +81945,6 @@
     "t": "Ninjago"
   },
   {
-    "s": "112324-1",
-    "n": "Kai vs. Bone King",
-    "y": 2023,
-    "p": 14,
-    "t": "Ninjago"
-  },
-  {
     "s": "112403-1",
     "n": "Kai vs. Cinder",
     "y": 2024,
@@ -90864,13 +90843,6 @@
     "n": "Lloyd vs Imperium Hunter",
     "y": 2024,
     "p": 4,
-    "t": "Ninjago"
-  },
-  {
-    "s": "112325-1",
-    "n": "Lloyd vs. Bone Warrior",
-    "y": 2023,
-    "p": 14,
     "t": "Ninjago"
   },
   {
@@ -159015,13 +158987,6 @@
     "n": "TIE Defender",
     "y": 2010,
     "p": 304,
-    "t": "Star Wars"
-  },
-  {
-    "s": "912506-1",
-    "n": "TIE Defender",
-    "y": 2025,
-    "p": 44,
     "t": "Star Wars"
   },
   {
