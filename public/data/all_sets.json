@@ -53535,7 +53535,7 @@
   },
   {
     "s": "60470-1",
-    "n": "Explorers' Arctic Polar Express Train",
+    "n": "Explorer Train",
     "y": 2025,
     "p": 1525,
     "t": "Arctic"
@@ -53565,6 +53565,13 @@
     "y": 2000,
     "p": 244,
     "t": "Studios"
+  },
+  {
+    "s": "60337-1",
+    "n": "Express Passenger Train",
+    "y": 2022,
+    "p": 764,
+    "t": "Trains"
   },
   {
     "s": "2459-1",
@@ -115601,13 +115608,6 @@
     "t": "4.5V"
   },
   {
-    "s": "60337-1",
-    "n": "Passenger Express Train",
-    "y": 2022,
-    "p": 764,
-    "t": "Trains"
-  },
-  {
     "s": "3181-1",
     "n": "Passenger Plane",
     "y": 2010,
@@ -147651,7 +147651,7 @@
     "s": "6230-1",
     "n": "Stormer XL",
     "y": 2012,
-    "p": 90,
+    "p": 89,
     "t": "Heroes"
   },
   {
