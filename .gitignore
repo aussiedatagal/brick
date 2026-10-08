@@ -54,3 +54,6 @@ public/data/inventory_to_parts.json
 
 github_token
 
+
+# research behind the page stays local
+research/
