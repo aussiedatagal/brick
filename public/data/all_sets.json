@@ -11160,6 +11160,12 @@
     "t": "Plush Toys"
   },
   {
+    "s": "PLUSH-3",
+    "n": "Astronaut Small Plush Minifigure - Blue",
+    "y": 2026,
+    "t": "Plush Toys"
+  },
+  {
     "s": "952511-1",
     "n": "Astronaut with Alien and Crystal",
     "y": 2025,
@@ -38022,6 +38028,12 @@
     "t": "Plush Toys"
   },
   {
+    "s": "PLUSH-14",
+    "n": "Construction Worker Small Plush Minifigure",
+    "y": 2026,
+    "t": "Plush Toys"
+  },
+  {
     "s": "852015-1",
     "n": "Construction Worker Vest",
     "y": 2007,
@@ -55617,7 +55629,7 @@
     "s": "8142-1",
     "n": "Ferrari 248 F1 1:24 [Vodafone Version]",
     "y": 2007,
-    "p": 168,
+    "p": 167,
     "t": "Ferrari"
   },
   {
@@ -62973,6 +62985,12 @@
     "y": 2006,
     "p": 33,
     "t": "Creator"
+  },
+  {
+    "s": "PLUSH-11",
+    "n": "Frog Fan Suit Small Plush Minifigure",
+    "y": 2026,
+    "t": "Plush Toys"
   },
   {
     "s": "71392-1",
@@ -79251,6 +79269,12 @@
     "y": 2015,
     "p": 54,
     "t": "Ninjago"
+  },
+  {
+    "s": "PLUSH-7",
+    "n": "Jay Small Plush Minifigure",
+    "y": 2026,
+    "t": "Plush Toys"
   },
   {
     "s": "112327-1",
@@ -124510,6 +124534,12 @@
     "t": "Series 22 Minifigures"
   },
   {
+    "s": "PLUSH-9",
+    "n": "Raccoon Fan Suit Small Plush Minifigure",
+    "y": 2026,
+    "t": "Plush Toys"
+  },
+  {
     "s": "3839-1",
     "n": "Race 3000",
     "y": 2009,
@@ -127899,7 +127929,7 @@
     "n": "Republic Dropship with AT-OT",
     "y": 2009,
     "p": 1758,
-    "t": "Ultimate Collector Series"
+    "t": "Star Wars"
   },
   {
     "s": "75182-1",
