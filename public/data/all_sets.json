@@ -541,7 +541,7 @@
   },
   {
     "s": "214.3-1",
-    "n": "1 x 6 x 2 Double-Pane Window in Frame w/Shutters",
+    "n": "1 x 6 x 2 Double-Pane Window in Frame with Shutters",
     "y": 1961,
     "p": 8,
     "t": "Supplemental"
@@ -2298,7 +2298,7 @@
   },
   {
     "s": "215-2",
-    "n": "2 x 8 Bricks  (EUR/UK/AUS)",
+    "n": "2 x 8 Bricks (EUR/UK/AUS)",
     "y": 1958,
     "p": 6,
     "t": "Supplemental"
@@ -2600,7 +2600,7 @@
     "s": "DATABASE-2015",
     "n": "2015 - Unused Parts Database Set",
     "y": 2015,
-    "p": 57,
+    "p": 58,
     "t": "Database Sets"
   },
   {
@@ -2652,7 +2652,7 @@
     "s": "DATABASE-2018",
     "n": "2018 - Unused Parts Database Set",
     "y": 2018,
-    "p": 62,
+    "p": 63,
     "t": "Database Sets"
   },
   {
@@ -2673,7 +2673,7 @@
     "s": "DATABASE-2019",
     "n": "2019 - Unused Parts Database Set",
     "y": 2019,
-    "p": 43,
+    "p": 46,
     "t": "Database Sets"
   },
   {
@@ -3482,7 +3482,7 @@
   {
     "s": "LG10002-1",
     "n": "3MP Digital Camera - Colourful",
-    "y": 2011,
+    "y": 2009,
     "p": 3,
     "t": "Gear"
   },
@@ -12283,7 +12283,7 @@
   },
   {
     "s": "970618-1",
-    "n": "Axle Extenders (Pack of 50)  {Axle Joiners}",
+    "n": "Axle Extenders (Pack of 50) {Axle Joiners}",
     "y": 2002,
     "p": 50,
     "t": "Technic"
@@ -13341,44 +13341,44 @@
     "t": "Western"
   },
   {
-    "s": "43101-13",
-    "n": "Bandmates  Series 1 - Complete",
-    "y": 2021,
-    "t": "VIDIYO"
-  },
-  {
-    "s": "6332255-1",
-    "n": "Bandmates  Series 1 - Sealed Box",
-    "y": 2021,
-    "t": "VIDIYO"
-  },
-  {
-    "s": "43108-13",
-    "n": "Bandmates  Series 2 - Complete",
-    "y": 2021,
-    "t": "VIDIYO"
-  },
-  {
-    "s": "43108-0",
-    "n": "Bandmates  Series 2 - Random Box",
-    "y": 2021,
-    "t": "VIDIYO"
-  },
-  {
-    "s": "6360744-1",
-    "n": "Bandmates  Series 2 - Sealed Box",
-    "y": 2021,
-    "t": "VIDIYO"
-  },
-  {
     "s": "5043101-1",
     "n": "Bandmates Bundle",
     "y": 2021,
     "t": "VIDIYO"
   },
   {
+    "s": "43101-13",
+    "n": "Bandmates Series 1 - Complete",
+    "y": 2021,
+    "t": "VIDIYO"
+  },
+  {
     "s": "43101-0",
     "n": "Bandmates Series 1 - Random Box",
+    "y": 2021,
+    "t": "VIDIYO"
+  },
+  {
+    "s": "6332255-1",
+    "n": "Bandmates Series 1 - Sealed Box",
+    "y": 2021,
+    "t": "VIDIYO"
+  },
+  {
+    "s": "43108-13",
+    "n": "Bandmates Series 2 - Complete",
+    "y": 2021,
+    "t": "VIDIYO"
+  },
+  {
+    "s": "43108-0",
+    "n": "Bandmates Series 2 - Random Box",
+    "y": 2021,
+    "t": "VIDIYO"
+  },
+  {
+    "s": "6360744-1",
+    "n": "Bandmates Series 2 - Sealed Box",
     "y": 2021,
     "t": "VIDIYO"
   },
@@ -14785,7 +14785,7 @@
   },
   {
     "s": "1056-1",
-    "n": "Basic School Pack - 773 elements with teacher's manual",
+    "n": "Basic School Pack - 773 Elements with Teacher's Manual",
     "y": 1985,
     "p": 785,
     "t": "Universal Building Set"
@@ -22105,7 +22105,7 @@
   },
   {
     "s": "2000460-1",
-    "n": "BOOMTOWN BUILD  Discover More",
+    "n": "BOOMTOWN BUILD Discover More",
     "y": 2019,
     "p": 12,
     "t": "FIRST LEGO League"
@@ -42741,7 +42741,7 @@
   },
   {
     "s": "113-2-DBASE-1",
-    "n": "Database Set for Various 3009 prints For Set 113-2",
+    "n": "Database Set for Various 3009 Prints For Set 113-2",
     "y": 1966,
     "p": 18,
     "t": "Database Sets"
@@ -42755,7 +42755,7 @@
   },
   {
     "s": "226-1-DBASE-1",
-    "n": "Database Set for Various 3009 prints For Set 226-1",
+    "n": "Database Set for Various 3009 Prints For Set 226-1",
     "y": 1958,
     "p": 77,
     "t": "Database Sets"
@@ -44863,7 +44863,7 @@
   {
     "s": "LG10007-1",
     "n": "Digital Camera - Pink",
-    "y": 2011,
+    "y": 2009,
     "p": 3,
     "t": "Gear"
   },
@@ -51585,13 +51585,6 @@
     "t": "Scala"
   },
   {
-    "s": "3186-1",
-    "n": "Emma's  Horse Trailer",
-    "y": 2012,
-    "p": 233,
-    "t": "Friends"
-  },
-  {
     "s": "41336-1",
     "n": "Emma's Art Caf\u00e9",
     "y": 2018,
@@ -51687,6 +51680,13 @@
     "n": "Emma's Heart Box",
     "y": 2019,
     "p": 85,
+    "t": "Friends"
+  },
+  {
+    "s": "3186-1",
+    "n": "Emma's Horse Trailer",
+    "y": 2012,
+    "p": 233,
     "t": "Friends"
   },
   {
@@ -54114,14 +54114,14 @@
   },
   {
     "s": "198575-3",
-    "n": "Fabuland Figure Bunny 3 - Orzoro Nestl\u00e9 Promotional polybag",
+    "n": "Fabuland Figure Bunny 3 - Orzoro Nestl\u00e9 Promotional Polybag",
     "y": 1985,
     "p": 1,
     "t": "Fabuland"
   },
   {
     "s": "198575-2",
-    "n": "Fabuland Figure Panda 2 - Orzoro Nestl\u00e9 Promotional polybag",
+    "n": "Fabuland Figure Panda 2 - Orzoro Nestl\u00e9 Promotional Polybag",
     "y": 1985,
     "p": 1,
     "t": "Fabuland"
@@ -69311,13 +69311,6 @@
     "t": "Harry Potter and Fantastic Beasts Series 1"
   },
   {
-    "s": "76456-1",
-    "n": "Harry Potter Advent  Calendar 2025",
-    "y": 2025,
-    "p": 278,
-    "t": "Harry Potter"
-  },
-  {
     "s": "75964-1",
     "n": "Harry Potter Advent Calendar 2019",
     "y": 2019,
@@ -69357,6 +69350,13 @@
     "n": "Harry Potter Advent Calendar 2024",
     "y": 2024,
     "p": 299,
+    "t": "Harry Potter"
+  },
+  {
+    "s": "76456-1",
+    "n": "Harry Potter Advent Calendar 2025",
+    "y": 2025,
+    "p": 278,
     "t": "Harry Potter"
   },
   {
@@ -74472,7 +74472,7 @@
   },
   {
     "s": "1065-1",
-    "n": "House Accessories - 182 elements",
+    "n": "House Accessories - 182 Elements",
     "y": 1985,
     "p": 196,
     "t": "Universal Building Set"
@@ -80996,7 +80996,7 @@
   },
   {
     "s": "5004805-1",
-    "n": "Jurassic World  - 3DS",
+    "n": "Jurassic World - 3DS",
     "y": 2015,
     "t": "Video Games and Accessories"
   },
@@ -87357,7 +87357,7 @@
   },
   {
     "s": "1646-2",
-    "n": "Lego Motion 3A, Land Laser - International version",
+    "n": "Lego Motion 3A, Land Laser - International Version",
     "y": 1994,
     "p": 17,
     "t": "McDonalds"
@@ -87371,7 +87371,7 @@
   },
   {
     "s": "1642-2",
-    "n": "Lego Motion 3B, Sea Eagle - International version",
+    "n": "Lego Motion 3B, Sea Eagle - International Version",
     "y": 1994,
     "p": 15,
     "t": "McDonalds"
@@ -87385,7 +87385,7 @@
   },
   {
     "s": "1644-2",
-    "n": "Lego Motion 4A, Wind Whirler - International version",
+    "n": "Lego Motion 4A, Wind Whirler - International Version",
     "y": 1994,
     "p": 17,
     "t": "McDonalds"
@@ -87399,7 +87399,7 @@
   },
   {
     "s": "1649-2",
-    "n": "Lego Motion 4B, Sea Skimmer - International version",
+    "n": "Lego Motion 4B, Sea Skimmer - International Version",
     "y": 1994,
     "p": 17,
     "t": "McDonalds"
@@ -87909,7 +87909,7 @@
   },
   {
     "s": "EDMONTON-1",
-    "n": "LEGO Store Grand Opening Exclusive Set, Southgate Mall, Edmonton,  AB, Canada",
+    "n": "LEGO Store Grand Opening Exclusive Set, Southgate Mall, Edmonton, AB, Canada",
     "y": 2013,
     "p": 14,
     "t": "LEGO Brand Store"
@@ -102108,13 +102108,6 @@
     "t": "Halloween"
   },
   {
-    "s": "42220-1",
-    "n": "Monster Jam  Sparkle Smash Pull-Back",
-    "y": 2026,
-    "p": 243,
-    "t": "Technic"
-  },
-  {
     "s": "66712-1",
     "n": "Monster Jam Collection",
     "y": 2022,
@@ -102174,6 +102167,13 @@
     "n": "Monster Jam Monster Mutt Dalmatian",
     "y": 2023,
     "p": 244,
+    "t": "Technic"
+  },
+  {
+    "s": "42220-1",
+    "n": "Monster Jam Sparkle Smash Pull-Back",
+    "y": 2026,
+    "p": 243,
     "t": "Technic"
   },
   {
@@ -117968,7 +117968,7 @@
   },
   {
     "s": "1411-1",
-    "n": "Pirate's Treasure Hunt (Quaker Oats promo)",
+    "n": "Pirate's Treasure Hunt (Quaker Oats Promo)",
     "y": 2001,
     "p": 35,
     "t": "Studios"
@@ -118957,12 +118957,6 @@
     "t": "Samsonite"
   },
   {
-    "s": "5711013131746-1",
-    "n": "Playful Bricks  Pencil Case",
-    "y": 2024,
-    "t": "Stationery and Office Supplies"
-  },
-  {
     "s": "5711013131647-1",
     "n": "Playful Bricks Core Backpack",
     "y": 2023,
@@ -119006,6 +119000,12 @@
   },
   {
     "s": "5711013131722-1",
+    "n": "Playful Bricks Pencil Case",
+    "y": 2024,
+    "t": "Stationery and Office Supplies"
+  },
+  {
+    "s": "5711013131746-1",
     "n": "Playful Bricks Pencil Case",
     "y": 2024,
     "t": "Stationery and Office Supplies"
@@ -132068,14 +132068,14 @@
   },
   {
     "s": "10025-1",
-    "n": "Santa Fe Cars - Set I (mail or baggage car)",
+    "n": "Santa Fe Cars - Set I (Mail or Baggage Car)",
     "y": 2002,
     "p": 326,
     "t": "9V"
   },
   {
     "s": "10022-1",
-    "n": "Santa Fe Cars - Set II (dining, observation, or sleeping car)",
+    "n": "Santa Fe Cars - Set II (Dining, Observation, or Sleeping Car)",
     "y": 2002,
     "p": 411,
     "t": "9V"
@@ -140953,7 +140953,7 @@
   },
   {
     "s": "1960-2",
-    "n": "Special Value 96 pieces (Canadian Set)",
+    "n": "Special Value 96 Pieces (Canadian Set)",
     "y": 1985,
     "p": 104,
     "t": "Basic"
@@ -146994,7 +146994,7 @@
   },
   {
     "s": "1314-1",
-    "n": "Stop bush / Small pulley",
+    "n": "Stop Bush / Small Pulley",
     "y": 1987,
     "p": 210,
     "t": "Technic"
@@ -152249,21 +152249,21 @@
   },
   {
     "s": "1223-1",
-    "n": "TECHNIC beams - black",
+    "n": "TECHNIC Beams - Black",
     "y": 1982,
     "p": 8,
     "t": "Technic"
   },
   {
     "s": "1222-1",
-    "n": "TECHNIC beams - blue",
+    "n": "TECHNIC Beams - Blue",
     "y": 1982,
     "p": 8,
     "t": "Technic"
   },
   {
     "s": "1221-1",
-    "n": "TECHNIC beams - yellow",
+    "n": "TECHNIC Beams - Yellow",
     "y": 1982,
     "p": 8,
     "t": "Technic"
@@ -152738,7 +152738,7 @@
   },
   {
     "s": "1236-1",
-    "n": "TECHNIC wheels with hubs",
+    "n": "TECHNIC Wheels with Hubs",
     "y": 1984,
     "p": 4,
     "t": "Technic"
@@ -166594,14 +166594,14 @@
   },
   {
     "s": "1417-1",
-    "n": "Vakama (Kabaya version)",
+    "n": "Vakama (Kabaya Version)",
     "y": 2001,
     "p": 26,
     "t": "Bionicle"
   },
   {
     "s": "1417-2",
-    "n": "Vakama (Polybag version)",
+    "n": "Vakama (Polybag Version)",
     "y": 2003,
     "p": 26,
     "t": "Bionicle"
