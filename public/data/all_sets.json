@@ -6969,7 +6969,7 @@
     "s": "60505-1",
     "n": "Airplane, Service Truck & Hovercraft Remix",
     "y": 2026,
-    "p": 991,
+    "p": 990,
     "t": "City"
   },
   {
@@ -50549,6 +50549,13 @@
     "t": "Bionicle"
   },
   {
+    "s": "6565182-1",
+    "n": "Eid Mosaic",
+    "y": 2025,
+    "p": 169,
+    "t": "Seasonal"
+  },
+  {
     "s": "10307-1",
     "n": "Eiffel Tower",
     "y": 2022,
@@ -86894,13 +86901,6 @@
     "y": 2011,
     "p": 91,
     "t": "LEGO Exclusive"
-  },
-  {
-    "s": "6565182-1",
-    "n": "Lego Eid Mosaic",
-    "y": 2025,
-    "p": 169,
-    "t": "Seasonal"
   },
   {
     "s": "4534-1",
